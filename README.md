@@ -1,1 +1,0 @@
-This site was created in React using JSX and some Googling !

@@ -1,1 +1,1 @@
-This project was created in React using JSX and some Googling !
+This site was created in React using JSX and some Googling !

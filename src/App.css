@@ -1,31 +1,148 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=Aladin&display');
+
+
+.HomePage {
+  /*background: -webkit-linear-gradient(rgb(201, 212, 255),#00a740);*/
+  background: #006590;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.AboutPage {
+  background: #006590;
+  text-align: center;
 }
 
 .App-header {
-  background-color: #282c34;
+  /*
+  background-image: url('./pictures/Background.png');
+  background-size: 250%;
+  background-color: #fcfdff65;
+  background-position-x: -50px;
+  background-position-y: -120px;
+  */
+  background-image: url('./pictures/noisy.png');
   min-height: 100vh;
-  display: flex;
+  display: block;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.IconButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+  padding: calc(0px + .5vmin);
+  border-radius: 20px;
+}
+
+.IconButton.spotify:hover {
+  background-color: #1DB954;
+}
+
+.IconButton.soundcloud:hover {
+  background-color: #FF5500;
+}
+
+.IconButton.instagram:hover {
+  background-color: #E4405F; 
+}
+
+.IconButton.youtube:hover {
+  background-color: #FF0000;
+}
+
+.IconButton.bandcamp:hover {
+  background-color: #629AA9;
+}
+
+.IconButton.email:hover {
+  background-color: #ffffff;
+}
+
+.TextButton {
+  font-family:'Aladin';
+  background-color: rgb(0, 0, 0);
+  border-color: #ffffff;
+  color: rgb(255, 255, 255);
+  font-size: calc(20px + 2vmin);
+  padding: calc(1px + 1vmin);
+  transition: background-color .3s ease;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+
+.TextButton.newTrack_1:hover {
+  background-color: #1DB954;
+}
+
+.TextButton.newMix_1:hover {
+  background-color: #FF5500;
+}
+
+.SalmanF_text {
+  font-family: "Zanzabar";
+  text-shadow: -1px -1px 2px rgb(255, 255, 255);
+  font-size: clamp(50px, 100%, 100px);
+  color: rgb(0, 0, 0);
+  margin-bottom: -3vh;
+}
+
+.AboutMe_link {
+  font-family: "Aladin";
+  font-size: clamp(40px, 5vw, 60px);
+  text-shadow: -1px -1px 2px white;
+  color: rgb(0, 0, 0);
+  text-decoration-line: none;
+  transition: color .5s ease;
+}
+
+.AboutMe_link:hover {
+  font-family: "Aladin";
+  font-size: clamp(40px, 5vw, 60px);
+  text-shadow: -1px -1px 2px white;
+  color: rgb(0, 18, 177);
+  
+}
+
+.AboutMe_text {
+  font-family: "Aladin";
+  font-size: 75px;
+  text-shadow: -1px -1px 2px white;
+
+}
+
+.AboutMe_paragraph {
+  background-image: url('./pictures/noisy.png');
+  background-color:rgb(255, 215, 252);
+  font-family:"Aladin";
+
+  width: 60%;
+  max-width: 100vh;
+  height: auto;  
+  margin: 20px auto;
+
+  border-style:groove;
+  border-radius: 20px;
+  border-color: rgb(0, 0, 0);
+
+  padding: calc(0px + .5vmin);
+  position: relative;
+
+}
+
+.Dallas {
+  font-family: 'Aladin';
+  text-align: center;
+  text-shadow: -1px -1px 2px white;
+
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +152,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.salmanPicture {
+  animation: App-logo-spin infinite 20s linear;
+  max-width: 250px;
+  max-height: 250px;
+  width: 25vw;
+  height: 25vw;
+  object-fit: cover;
+  border-radius: 50%;
+  border-style:solid;
+  margin-top: 80px;
+}
+
+.versionText {
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 80vw;
 }

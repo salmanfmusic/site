@@ -1,0 +1,12 @@
+
+
+.AboutMe_Pictures {
+	max-width: 500px;
+  max-height: 250px;
+  width: 40vw;
+  height: 25vw;
+  object-fit:cover;
+  border-radius: 20px;
+  border-style:solid;
+	border-color:rgb(0, 0, 0);
+}

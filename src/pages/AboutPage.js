@@ -42,7 +42,7 @@ function AboutPage() {
           SalmanF loves his gf :)
         </div>
 
-        <div><Link to="/" className="AboutMe_link">Home Page</Link></div>
+        <div><Link to="/site" className="AboutMe_link">Home Page</Link></div>
 
         <div className="versionText" color="black">version 1.0 :)</div>
       </header>

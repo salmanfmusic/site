@@ -10,7 +10,7 @@ import standing from '../pictures/Standing.JPG';
 function AboutPage() {
   return (
     <div className="AboutPage">
-      <header className="App-header">
+      <header className="AboutPage-header">
         <div className="AboutMe_text" color="black">About Me</div>
 
         <a href={chicle} target="_blank" rel="noopener noreferrer">
@@ -18,8 +18,8 @@ function AboutPage() {
         </a>
         
         <div className="AboutMe_paragraph">
-          SalmanF DJ based out of Dallas, Texas.
-          His digital and vinyl DJ sets range from SWANA region music (South Asian/North-West Africa) 
+          SalmanF is a DJ based in Dallas, Texas.
+          His digital and vinyl DJ sets range from SWANA region music (South-West Asian/North Africa) 
           to early 2000s trance (although he regularly falls back into Chicago House mimxes and 
           pop music blends).
           His approach is intentional and immersive - shaped by years of crate-digging, producing, 
@@ -40,7 +40,7 @@ function AboutPage() {
         </a>
 
         <div className="AboutMe_paragraph">
-          SalmanF loves his gf :)
+          SalmanF loves to have fun :)
         </div>
 
         <div><Link to="/" className="AboutMe_link">Home Page</Link></div>

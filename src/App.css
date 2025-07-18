@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Aladin&display');
+@import url('https://fonts.googleapis.com/css?family=Winky+Rough&display');
 
 @font-face {
       font-family: 'Zanzabar';
@@ -26,6 +27,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
 }
+
+.AboutPage-header {
+  background-image: url('./pictures/noisy.png');
+  min-height: 122vh;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+
 
 .App-link {
   color: #61dafb;
@@ -120,7 +133,8 @@
 .AboutMe_paragraph {
   background-image: url('./pictures/noisy.png');
   background-color:rgb(255, 215, 252);
-  font-family:"Aladin";
+  /*font-family:"Aladin";*/
+  font-family:"Winky Rough";
 
   width: 60%;
   max-width: 100vh;

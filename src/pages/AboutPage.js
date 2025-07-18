@@ -18,9 +18,10 @@ function AboutPage() {
         </a>
         
         <div className="AboutMe_paragraph">
-          SalmanF is a digital and vinyl DJ based out of Dallas, Texas.
-          His DJ sets range from South Asian/North-West Africa (SWANA) region music to early 2000s
-          trance while regularly falling back into Chicago House mixes and pop music blends.
+          SalmanF DJ based out of Dallas, Texas.
+          His digital and vinyl DJ sets range from SWANA region music (South Asian/North-West Africa) 
+          to early 2000s trance (although he regularly falls back into Chicago House mimxes and 
+          pop music blends).
           His approach is intentional and immersive - shaped by years of crate-digging, producing, 
           and living the genres he loves to play. 
         </div>
@@ -30,8 +31,8 @@ function AboutPage() {
         </a>
 
         <div className="AboutMe_paragraph">
-          SalmanF is also a producer using both hardware and software to create, mix,
-          and master deep house, classic trance, and the occasional edit.
+          SalmanF also produces, mixes, and masters original tracks ranging from deep
+          house, classic trance, and the occasional edit.
         </div>
 
         <a href={standing} target="_blank" rel="noopener noreferrer">

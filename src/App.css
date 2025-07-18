@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Aladin&display');
 
+@font-face {
+      font-family: 'Zanzabar';
+      src: url('./fonts/Zanzabar 400.ttf') format('truetype'); 
+      font-weight: normal;
+      font-style: normal; 
+}
 
 .HomePage {
   /*background: -webkit-linear-gradient(rgb(201, 212, 255),#00a740);*/

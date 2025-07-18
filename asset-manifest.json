@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.04de83b9.css",
-    "main.js": "/static/js/main.740a963c.js",
-    "static/js/453.adc34edb.chunk.js": "/static/js/453.adc34edb.chunk.js",
-    "static/media/LL_Dil_Se.jpg": "/static/media/LL_Dil_Se.6c43238d1e1ca2d5c71c.jpg",
-    "static/media/salmanPicture.jpg": "/static/media/salmanPicture.cd8e2c33bdaccf34c416.jpg",
-    "static/media/Chicle_Vinyl.jpg": "/static/media/Chicle_Vinyl.33fe3c187b0e3cf5b9b0.jpg",
-    "static/media/Standing.JPG": "/static/media/Standing.577ffbd74a53169c7add.JPG",
-    "static/media/noisy.png": "/static/media/noisy.9d77f6daaa400aac14c0.png",
-    "static/media/instagramLogo.png": "/static/media/instagramLogo.56d3c2ef9b43e98875c0.png",
-    "static/media/bandcampLogo.png": "/static/media/bandcampLogo.8a8392c8f98db458dfde.png",
-    "static/media/youtubeLogo.png": "/static/media/youtubeLogo.4ad78c4004874a182b12.png",
-    "static/media/spotifyLogo.png": "/static/media/spotifyLogo.6fe0501d71d81517f440.png",
-    "index.html": "/index.html",
-    "main.04de83b9.css.map": "/static/css/main.04de83b9.css.map",
-    "main.740a963c.js.map": "/static/js/main.740a963c.js.map",
-    "453.adc34edb.chunk.js.map": "/static/js/453.adc34edb.chunk.js.map"
+    "main.css": "/site/static/css/main.d52d1785.css",
+    "main.js": "/site/static/js/main.ed182ffa.js",
+    "static/js/453.adc34edb.chunk.js": "/site/static/js/453.adc34edb.chunk.js",
+    "static/media/LL_Dil_Se.jpg": "/site/static/media/LL_Dil_Se.6c43238d1e1ca2d5c71c.jpg",
+    "static/media/salmanPicture.jpg": "/site/static/media/salmanPicture.cd8e2c33bdaccf34c416.jpg",
+    "static/media/Chicle_Vinyl.jpg": "/site/static/media/Chicle_Vinyl.33fe3c187b0e3cf5b9b0.jpg",
+    "static/media/Standing.JPG": "/site/static/media/Standing.577ffbd74a53169c7add.JPG",
+    "static/media/noisy.png": "/site/static/media/noisy.9d77f6daaa400aac14c0.png",
+    "static/media/instagramLogo.png": "/site/static/media/instagramLogo.56d3c2ef9b43e98875c0.png",
+    "static/media/bandcampLogo.png": "/site/static/media/bandcampLogo.8a8392c8f98db458dfde.png",
+    "static/media/youtubeLogo.png": "/site/static/media/youtubeLogo.4ad78c4004874a182b12.png",
+    "static/media/spotifyLogo.png": "/site/static/media/spotifyLogo.6fe0501d71d81517f440.png",
+    "index.html": "/site/index.html",
+    "main.d52d1785.css.map": "/site/static/css/main.d52d1785.css.map",
+    "main.ed182ffa.js.map": "/site/static/js/main.ed182ffa.js.map",
+    "453.adc34edb.chunk.js.map": "/site/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04de83b9.css",
-    "static/js/main.740a963c.js"
+    "static/css/main.d52d1785.css",
+    "static/js/main.ed182ffa.js"
   ]
 }

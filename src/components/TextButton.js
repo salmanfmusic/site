@@ -13,7 +13,10 @@ const TextButton = ({ label }) => {
 	}
 	if (label === "newMix_1") {
 			websiteLink = "https://soundcloud.com/salmanfuwu/salmanf-diaspora";
-			buttonText = "SalmanF - DIASPORA (Mix)";
+			buttonText = "DIASPORA (SWANA Region Mix)";
+	}if (label === "newMix_2") {
+			websiteLink = "https://youtu.be/pBtDQmcPx48?si=ji3bV__S5pZAiNQm";
+			buttonText = "Classic Trance (Vinyl Mix)";
 	}
 
 	return(

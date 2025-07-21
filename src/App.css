@@ -98,6 +98,10 @@
   background-color: #FF5500;
 }
 
+.TextButton.newMix_2:hover {
+  background-color: #FF0000;
+}
+
 .SalmanF_text {
   font-family: "Zanzabar";
   text-shadow: -1px -1px 2px rgb(255, 255, 255);

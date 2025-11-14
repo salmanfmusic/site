@@ -12,7 +12,7 @@ const TextButton = ({ label }) => {
 			buttonText = "Lady Gaga - Abracadabra (Remix) (SoundCloud)";
 	}
 	if (label === "newTrack_2") {
-			websiteLink = "";
+			websiteLink = "https://salmanf.bandcamp.com/track/lady-gaga-abracadabra-salmanf-here-in-my-garage-remix";
 			buttonText = "Lady Gaga - Abracadabra (Remix) (bandcamp)";
 	}
 	if (label === "newMix_1") {

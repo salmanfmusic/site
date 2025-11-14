@@ -20,6 +20,7 @@ function HomePage() {
         </h1>
           <p className="Dallas">Dallas, TX</p>
           <div><TextButton label = "newTrack_1"/></div>
+          <div><TextButton label = "newTrack_2"/></div>
           <div><TextButton label = "newMix_1"/></div>
           <div><TextButton label = "newMix_2"/></div> 
           <div><IconButton label = "email"/></div>

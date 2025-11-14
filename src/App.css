@@ -91,7 +91,11 @@
 }
 
 .TextButton.newTrack_1:hover {
-  background-color: #1DB954;
+  background-color: #FF5500;
+}
+
+.TextButton.newTrack_2:hover {
+  background-color: #629AA9;
 }
 
 .TextButton.newMix_1:hover {

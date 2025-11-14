@@ -8,8 +8,12 @@ const TextButton = ({ label }) => {
 	let buttonText = "";
 
 	if (label === "newTrack_1") {
-			websiteLink = "https://open.spotify.com/track/6UptcsTY29rqFG4CMxGWFi?si=8a4cfd9346d64508";
-			buttonText = "Ariana Grande - Supernatural (Remix)";
+			websiteLink = "https://soundcloud.com/salmanfuwu/lady-gaga-abracadabra-salmanf-here-in-my-garage-remix";
+			buttonText = "Lady Gaga - Abracadabra (Remix) (SoundCloud)";
+	}
+	if (label === "newTrack_2") {
+			websiteLink = "";
+			buttonText = "Lady Gaga - Abracadabra (Remix) (bandcamp)";
 	}
 	if (label === "newMix_1") {
 			websiteLink = "https://soundcloud.com/salmanfuwu/salmanf-diaspora";

@@ -19,13 +19,14 @@ function HomePage() {
           <div className="SalmanF_text">SalmanF</div>
         </h1>
           <p className="Dallas">Dallas, TX</p>
+          <div><TextButton label = "newMix_3"/></div>
+          <div><TextButton label = "newMix_4"/></div>
           <div><TextButton label = "newTrack_1"/></div>
-          <div><TextButton label = "newTrack_2"/></div>
           <div><TextButton label = "newMix_1"/></div>
           <div><TextButton label = "newMix_2"/></div> 
           <div><IconButton label = "email"/></div>
           <Link to="/about" className="AboutMe_link">About Me</Link>
-          <div className="versionText" color="black">version 1.0 :)</div>
+          <div className="versionText" color="black">version 1.1 :)</div>
       </header>
     </div>
   );

@@ -88,6 +88,11 @@
   transition: background-color .3s ease;
   border-radius: 20px;
   margin-bottom: 15px;
+
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
 }
 
 .TextButton.newTrack_1:hover {
@@ -95,6 +100,9 @@
 }
 
 .TextButton.newTrack_2:hover {
+  background-color: #FF5500;
+}
+.TextButton.newTrack_3:hover {
   background-color: #629AA9;
 }
 
@@ -191,6 +199,12 @@
   border-radius: 50%;
   border-style:solid;
   margin-top: 80px;
+}
+
+.gif {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
 }
 
 .versionText {

@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1341ad5b.css",
-    "main.js": "/static/js/main.0f01f413.js",
+    "main.css": "/static/css/main.d8b4721e.css",
+    "main.js": "/static/js/main.bff9a2ad.js",
     "static/js/453.adc34edb.chunk.js": "/static/js/453.adc34edb.chunk.js",
     "static/media/LL_Dil_Se.jpg": "/static/media/LL_Dil_Se.6c43238d1e1ca2d5c71c.jpg",
     "static/media/salmanPicture.jpg": "/static/media/salmanPicture.cd8e2c33bdaccf34c416.jpg",
     "static/media/Chicle_Vinyl.jpg": "/static/media/Chicle_Vinyl.33fe3c187b0e3cf5b9b0.jpg",
     "static/media/Standing.JPG": "/static/media/Standing.577ffbd74a53169c7add.JPG",
     "static/media/Zanzabar 400.ttf": "/static/media/Zanzabar 400.0ac190d49c49aac09bd3.ttf",
+    "static/media/Megaman_gif.gif": "/static/media/Megaman_gif.dfb98d4ca9a94b24ab3f.gif",
     "static/media/noisy.png": "/static/media/noisy.9d77f6daaa400aac14c0.png",
     "static/media/instagramLogo.png": "/static/media/instagramLogo.56d3c2ef9b43e98875c0.png",
     "static/media/bandcampLogo.png": "/static/media/bandcampLogo.8a8392c8f98db458dfde.png",
     "static/media/youtubeLogo.png": "/static/media/youtubeLogo.4ad78c4004874a182b12.png",
     "static/media/spotifyLogo.png": "/static/media/spotifyLogo.6fe0501d71d81517f440.png",
     "index.html": "/index.html",
-    "main.1341ad5b.css.map": "/static/css/main.1341ad5b.css.map",
-    "main.0f01f413.js.map": "/static/js/main.0f01f413.js.map",
+    "main.d8b4721e.css.map": "/static/css/main.d8b4721e.css.map",
+    "main.bff9a2ad.js.map": "/static/js/main.bff9a2ad.js.map",
     "453.adc34edb.chunk.js.map": "/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1341ad5b.css",
-    "static/js/main.0f01f413.js"
+    "static/css/main.d8b4721e.css",
+    "static/js/main.bff9a2ad.js"
   ]
 }

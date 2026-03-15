@@ -45,7 +45,7 @@ function AboutPage() {
 
         <div><Link to="/" className="AboutMe_link">Home Page</Link></div>
 
-        <div className="versionText" color="black">version 1.1 :)</div>
+        <div className="versionText" color="black">version 1.3 :)</div>
       </header>
 
     </div>

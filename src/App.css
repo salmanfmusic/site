@@ -9,12 +9,13 @@
 }
 
 .HomePage {
-  background: #006590;
+  /*background: #006590;*/
+  background:#822333;
   text-align: center;
 }
 
 .AboutPage {
-  background: #006590;
+  background: #822333;
   text-align: center;
 }
 
@@ -92,6 +93,7 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  letter-spacing: 1px;
 
 }
 

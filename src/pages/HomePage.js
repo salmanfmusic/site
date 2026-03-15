@@ -1,7 +1,7 @@
 import '../App.css';
 import React from 'react';
 import {Link} from 'react-router-dom';
-import salmanPicture from '../pictures/salmanPicture.jpg';
+import salmanPicture from '../pictures/salmanPicture2.jpg';
 import IconButton from '../components/IconButton';
 import TextButton from '../components/TextButton';
 
@@ -27,7 +27,7 @@ function HomePage() {
           <div><TextButton label = "newMix_2"/></div> 
           <div><IconButton label = "email"/></div>
           <Link to="/about" className="AboutMe_link">About Me</Link>
-          <div className="versionText" color="black">version 1.2 :)</div>
+          <div className="versionText" color="black">version 1.3 :)</div>
       </header>
     </div>
   );

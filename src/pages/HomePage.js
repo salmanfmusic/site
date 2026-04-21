@@ -19,6 +19,8 @@ function HomePage() {
           <div className="SalmanF_text">SalmanF</div>
         </h1>
           <p className="Dallas">Dallas, TX</p>
+          <div><TextButton label = "newMix_4"/></div>
+          <div><TextButton label = "newMix_5"/></div> 
           <div><TextButton label = "newTrack_2"/></div>
           <div><TextButton label = "newTrack_3"/></div>
           <div><TextButton label = "newMix_3"/></div>
@@ -27,7 +29,7 @@ function HomePage() {
           <div><TextButton label = "newMix_2"/></div> 
           <div><IconButton label = "email"/></div>
           <Link to="/about" className="AboutMe_link">About Me</Link>
-          <div className="versionText" color="black">version 1.3 :)</div>
+          <div className="versionText" color="black">version 1.4 :)</div>
       </header>
     </div>
   );

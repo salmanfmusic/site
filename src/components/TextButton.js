@@ -26,14 +26,22 @@ const TextButton = ({ label }) => {
 	}
 	if (label === "newMix_1") {
 			websiteLink = "https://soundcloud.com/salmanfuwu/salmanf-diaspora";
-			buttonText = "DIASPORA (SWANA Region Mix)";
+			buttonText = "DIASPORA - SWANA Mix (SoundCloud)";
 	}if (label === "newMix_2") {
 			websiteLink = "https://youtu.be/pBtDQmcPx48?si=ji3bV__S5pZAiNQm";
-			buttonText = "Classic Trance (Vinyl Mix - YouTube)";
+			buttonText = "Classic Trance Vinyl Mix (YouTube)";
 	}
 	if (label === "newMix_3") {
 			websiteLink = "https://soundcloud.com/salmanfuwu/salmanf-the-view-part-1-house-mix";
 			buttonText = "The View Part 1 - House Mix (SoundCloud)";
+	}
+	if (label === "newMix_4") {
+			websiteLink = "https://www.youtube.com/watch?v=7l5Q0Ud3UVQ&t=781s";
+			buttonText = "GPL House Series Ep 016 - Hindustani Classics, Arabic Funk (YouTube)";
+	}
+	if (label === "newMix_5") {
+			websiteLink = "https://soundcloud.com/gplhouseseries/gpl-house-series-ep-016-dj";
+			buttonText = "GPL House Series Ep 016 - Hindustani Classics, Arabic Funk (SoundCloud)";
 	}
 
 	return(

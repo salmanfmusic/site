@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e5279e1.css",
-    "main.js": "/static/js/main.a3992c51.js",
+    "main.css": "/static/css/main.b56a58c2.css",
+    "main.js": "/static/js/main.4260bf79.js",
     "static/js/453.adc34edb.chunk.js": "/static/js/453.adc34edb.chunk.js",
     "static/media/LL_Dil_Se.jpg": "/static/media/LL_Dil_Se.6c43238d1e1ca2d5c71c.jpg",
     "static/media/Chicle_Vinyl.jpg": "/static/media/Chicle_Vinyl.33fe3c187b0e3cf5b9b0.jpg",
@@ -15,12 +15,12 @@
     "static/media/youtubeLogo.png": "/static/media/youtubeLogo.4ad78c4004874a182b12.png",
     "static/media/spotifyLogo.png": "/static/media/spotifyLogo.6fe0501d71d81517f440.png",
     "index.html": "/index.html",
-    "main.7e5279e1.css.map": "/static/css/main.7e5279e1.css.map",
-    "main.a3992c51.js.map": "/static/js/main.a3992c51.js.map",
+    "main.b56a58c2.css.map": "/static/css/main.b56a58c2.css.map",
+    "main.4260bf79.js.map": "/static/js/main.4260bf79.js.map",
     "453.adc34edb.chunk.js.map": "/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e5279e1.css",
-    "static/js/main.a3992c51.js"
+    "static/css/main.b56a58c2.css",
+    "static/js/main.4260bf79.js"
   ]
 }
